@@ -55,7 +55,6 @@ function renderPeople(searchResults) {
 				resultHtml += " (" + searchResults[i].deathPlace + ")";
 			resultHtml += "</label>";
 		}
-		resultHtml += "</div>";
 
 		resultHtml += "</div>";
 		resultHtml += "</div>";
